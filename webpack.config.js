@@ -1,7 +1,8 @@
 var path = require('path');
 var HtmlPlugin = require('html-webpack-plugin');
+var candelaLoaders = require('candela/webpack');
 
-module.exports = {
+module.exports = candelaLoaders({
   devtool: 'cheap-module-source-eval',
   entry: {
     index: './src/index.js'
@@ -35,4 +36,4 @@ module.exports = {
       ]
     })
   ]
-};
+});
