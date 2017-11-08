@@ -1,0 +1,197 @@
+[
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12f87394953e1db20d9",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:31.159000+00:00",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "cbf589a0-c3c6-11e7-98e2-5c514f119c98",
+    "parentType": "group",
+    "progress": null,
+    "public": true,
+    "rootId": "5a01c12987394953e1db20c5",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:31.163000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:33.170000+00:00"
+      }
+    ],
+    "title": "Reduce 0",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:33.170000+00:00",
+    "when": "2017-11-07T14:20:31.159000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12d87394953e1db20d3",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:29.147000+00:00",
+    "groupId": "cbf589a0-c3c6-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "5a01c12b87394953e1db20c9",
+    "parentType": "job",
+    "progress": null,
+    "public": true,
+    "rootId": "5a01c12987394953e1db20c5",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:29.150000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:31.155000+00:00"
+      }
+    ],
+    "title": "Map 2",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:31.155000+00:00",
+    "when": "2017-11-07T14:20:29.147000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12d87394953e1db20d0",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:29.142000+00:00",
+    "groupId": "cbf589a0-c3c6-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "5a01c12b87394953e1db20c9",
+    "parentType": "job",
+    "progress": null,
+    "public": true,
+    "rootId": "5a01c12987394953e1db20c5",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:29.145000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:31.152000+00:00"
+      }
+    ],
+    "title": "Map 1",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:31.152000+00:00",
+    "when": "2017-11-07T14:20:29.142000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12d87394953e1db20cd",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:29.133000+00:00",
+    "groupId": "cbf589a0-c3c6-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "5a01c12b87394953e1db20c9",
+    "parentType": "job",
+    "progress": null,
+    "public": true,
+    "rootId": "5a01c12987394953e1db20c5",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:29.141000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:31.147000+00:00"
+      }
+    ],
+    "title": "Map 0",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:31.147000+00:00",
+    "when": "2017-11-07T14:20:29.133000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12b87394953e1db20c9",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:27.113000+00:00",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "5a01c12987394953e1db20c5",
+    "parentType": "job",
+    "progress": null,
+    "public": true,
+    "rootId": "5a01c12987394953e1db20c5",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:27.118000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:29.125000+00:00"
+      }
+    ],
+    "title": "Chain 1",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:29.125000+00:00",
+    "when": "2017-11-07T14:20:27.113000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a01c12987394953e1db20c5",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-07T14:20:25.092000+00:00",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-07T14:20:25.097000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-07T14:20:27.105000+00:00"
+      }
+    ],
+    "title": "Root",
+    "type": "jobmock",
+    "updated": "2017-11-07T14:20:27.105000+00:00",
+    "when": "2017-11-07T14:20:25.092000+00:00"
+  }
+]

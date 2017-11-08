@@ -1,2 +1,7 @@
-console.log('hello, world');
-document.write('<h1>hello, world</h1>');
+import JsonView from './vis/JsonView';
+import smallData from '../data/jobmock-small.json';
+
+const vis = new JsonView(document.body, {
+  data: smallData
+});
+vis.render();
