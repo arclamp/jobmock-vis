@@ -1,4 +1,4 @@
-import JsonView from './vis/JsonView';
+import { JsonView } from './vis';
 import smallData from '../data/jobmock-small.json';
 
 const vis = new JsonView(document.body, {
