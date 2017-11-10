@@ -1,0 +1,1651 @@
+[
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6e08739497ee49ed5f4",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:52.054000+00:00",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "parentType": "group",
+    "progress": null,
+    "public": true,
+    "rootId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:52.057000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:34:02.563000+00:00"
+      }
+    ],
+    "title": "Reduce 0",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:34:02.563000+00:00",
+    "when": "2017-11-10T15:33:52.054000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed58d",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.862000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.864000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.886000+00:00"
+      }
+    ],
+    "title": "Map 99",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.886000+00:00",
+    "when": "2017-11-10T15:33:30.862000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed58a",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.857000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.860000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.723000+00:00"
+      }
+    ],
+    "title": "Map 98",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.723000+00:00",
+    "when": "2017-11-10T15:33:30.857000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed587",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.853000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.855000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:46.370000+00:00"
+      }
+    ],
+    "title": "Map 97",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:46.370000+00:00",
+    "when": "2017-11-10T15:33:30.853000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed584",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.848000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.851000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:43.367000+00:00"
+      }
+    ],
+    "title": "Map 96",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.367000+00:00",
+    "when": "2017-11-10T15:33:30.848000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed581",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.842000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.845000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:42.755000+00:00"
+      }
+    ],
+    "title": "Map 95",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.755000+00:00",
+    "when": "2017-11-10T15:33:30.842000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed57e",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.833000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.837000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:42.699000+00:00"
+      }
+    ],
+    "title": "Map 94",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.699000+00:00",
+    "when": "2017-11-10T15:33:30.833000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed57b",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.826000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.829000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:49.089000+00:00"
+      }
+    ],
+    "title": "Map 93",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:49.089000+00:00",
+    "when": "2017-11-10T15:33:30.826000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed578",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.821000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.824000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.700000+00:00"
+      }
+    ],
+    "title": "Map 92",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.700000+00:00",
+    "when": "2017-11-10T15:33:30.821000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed575",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.817000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.819000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:44.976000+00:00"
+      }
+    ],
+    "title": "Map 91",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.976000+00:00",
+    "when": "2017-11-10T15:33:30.817000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed572",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.812000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.814000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:43.223000+00:00"
+      }
+    ],
+    "title": "Map 90",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.223000+00:00",
+    "when": "2017-11-10T15:33:30.812000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed56f",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.807000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.810000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:47.839000+00:00"
+      }
+    ],
+    "title": "Map 89",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:47.839000+00:00",
+    "when": "2017-11-10T15:33:30.807000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed56c",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.801000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.805000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:44.353000+00:00"
+      }
+    ],
+    "title": "Map 88",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.353000+00:00",
+    "when": "2017-11-10T15:33:30.801000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed569",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.791000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.798000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:43.255000+00:00"
+      }
+    ],
+    "title": "Map 87",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.255000+00:00",
+    "when": "2017-11-10T15:33:30.791000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed566",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.783000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.788000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:47.671000+00:00"
+      }
+    ],
+    "title": "Map 86",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:47.671000+00:00",
+    "when": "2017-11-10T15:33:30.783000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed563",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.778000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.781000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.513000+00:00"
+      }
+    ],
+    "title": "Map 85",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.513000+00:00",
+    "when": "2017-11-10T15:33:30.778000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed560",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.772000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.776000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:44.302000+00:00"
+      }
+    ],
+    "title": "Map 84",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.302000+00:00",
+    "when": "2017-11-10T15:33:30.772000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed55d",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.764000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.769000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:42.453000+00:00"
+      }
+    ],
+    "title": "Map 83",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.453000+00:00",
+    "when": "2017-11-10T15:33:30.764000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed55a",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.758000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.761000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:40.951000+00:00"
+      }
+    ],
+    "title": "Map 82",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:40.951000+00:00",
+    "when": "2017-11-10T15:33:30.758000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed557",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.753000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.756000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:44.082000+00:00"
+      }
+    ],
+    "title": "Map 81",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.082000+00:00",
+    "when": "2017-11-10T15:33:30.753000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed554",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.749000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.752000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:48.460000+00:00"
+      }
+    ],
+    "title": "Map 80",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:48.460000+00:00",
+    "when": "2017-11-10T15:33:30.749000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed551",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.745000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.747000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:43.947000+00:00"
+      }
+    ],
+    "title": "Map 79",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.947000+00:00",
+    "when": "2017-11-10T15:33:30.745000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed54e",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.740000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.743000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:41.152000+00:00"
+      }
+    ],
+    "title": "Map 78",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.152000+00:00",
+    "when": "2017-11-10T15:33:30.740000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed54b",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.736000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.738000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:43.652000+00:00"
+      }
+    ],
+    "title": "Map 77",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.652000+00:00",
+    "when": "2017-11-10T15:33:30.736000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed548",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.729000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.733000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:44.408000+00:00"
+      }
+    ],
+    "title": "Map 76",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.408000+00:00",
+    "when": "2017-11-10T15:33:30.729000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed545",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.722000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.726000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:42.315000+00:00"
+      }
+    ],
+    "title": "Map 75",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.315000+00:00",
+    "when": "2017-11-10T15:33:30.722000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed542",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.716000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.720000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.762000+00:00"
+      }
+    ],
+    "title": "Map 74",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.762000+00:00",
+    "when": "2017-11-10T15:33:30.716000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed53f",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.709000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.713000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:47.877000+00:00"
+      }
+    ],
+    "title": "Map 73",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:47.877000+00:00",
+    "when": "2017-11-10T15:33:30.709000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed53c",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.703000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.707000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:46.319000+00:00"
+      }
+    ],
+    "title": "Map 72",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:46.319000+00:00",
+    "when": "2017-11-10T15:33:30.703000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed539",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.697000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.701000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:42.228000+00:00"
+      }
+    ],
+    "title": "Map 71",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.228000+00:00",
+    "when": "2017-11-10T15:33:30.697000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed536",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.686000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.692000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:49.140000+00:00"
+      }
+    ],
+    "title": "Map 70",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:49.140000+00:00",
+    "when": "2017-11-10T15:33:30.686000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed533",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.679000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.683000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:45.193000+00:00"
+      }
+    ],
+    "title": "Map 69",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:45.193000+00:00",
+    "when": "2017-11-10T15:33:30.679000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed530",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.674000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.676000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:41.459000+00:00"
+      }
+    ],
+    "title": "Map 68",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.459000+00:00",
+    "when": "2017-11-10T15:33:30.674000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed52d",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.669000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.672000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:45.746000+00:00"
+      }
+    ],
+    "title": "Map 67",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:45.746000+00:00",
+    "when": "2017-11-10T15:33:30.669000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed52a",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.664000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.667000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:46.697000+00:00"
+      }
+    ],
+    "title": "Map 66",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:46.697000+00:00",
+    "when": "2017-11-10T15:33:30.664000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed527",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.657000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.662000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:52.050000+00:00"
+      }
+    ],
+    "title": "Map 65",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:52.050000+00:00",
+    "when": "2017-11-10T15:33:30.657000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed524",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.650000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.655000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:45.921000+00:00"
+      }
+    ],
+    "title": "Map 64",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:45.921000+00:00",
+    "when": "2017-11-10T15:33:30.650000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed521",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.643000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.647000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:45.580000+00:00"
+      }
+    ],
+    "title": "Map 63",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:45.580000+00:00",
+    "when": "2017-11-10T15:33:30.643000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed51e",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.637000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.641000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.989000+00:00"
+      }
+    ],
+    "title": "Map 62",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.989000+00:00",
+    "when": "2017-11-10T15:33:30.637000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed51b",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.632000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.635000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:44.021000+00:00"
+      }
+    ],
+    "title": "Map 61",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:44.021000+00:00",
+    "when": "2017-11-10T15:33:30.632000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed518",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.625000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.629000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:45.385000+00:00"
+      }
+    ],
+    "title": "Map 60",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:45.385000+00:00",
+    "when": "2017-11-10T15:33:30.625000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed515",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.618000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.622000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.467000+00:00"
+      }
+    ],
+    "title": "Map 59",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.467000+00:00",
+    "when": "2017-11-10T15:33:30.618000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed512",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.611000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.615000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:40.656000+00:00"
+      }
+    ],
+    "title": "Map 58",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:40.656000+00:00",
+    "when": "2017-11-10T15:33:30.611000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed50f",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.604000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.608000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:47.994000+00:00"
+      }
+    ],
+    "title": "Map 57",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:47.994000+00:00",
+    "when": "2017-11-10T15:33:30.604000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed50c",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.597000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.601000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:40.946000+00:00"
+      }
+    ],
+    "title": "Map 56",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:40.946000+00:00",
+    "when": "2017-11-10T15:33:30.597000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed509",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.591000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.595000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:48.069000+00:00"
+      }
+    ],
+    "title": "Map 55",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:48.069000+00:00",
+    "when": "2017-11-10T15:33:30.591000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed506",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.585000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.588000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:43.448000+00:00"
+      }
+    ],
+    "title": "Map 54",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:43.448000+00:00",
+    "when": "2017-11-10T15:33:30.585000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed503",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.576000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.579000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:41.357000+00:00"
+      }
+    ],
+    "title": "Map 53",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:41.357000+00:00",
+    "when": "2017-11-10T15:33:30.576000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed500",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.569000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 3,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.573000+00:00"
+      },
+      {
+        "status": 3,
+        "time": "2017-11-10T15:33:42.501000+00:00"
+      }
+    ],
+    "title": "Map 52",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:42.501000+00:00",
+    "when": "2017-11-10T15:33:30.569000+00:00"
+  },
+  {
+    "_accessLevel": 2,
+    "_id": "5a05c6ca8739497ee49ed4fd",
+    "_modelType": "job",
+    "args": [],
+    "async": false,
+    "created": "2017-11-10T15:33:30.563000+00:00",
+    "groupId": "80f235c6-c62c-11e7-98e2-5c514f119c98",
+    "handler": null,
+    "interval": 0,
+    "kwargs": {},
+    "meta": {},
+    "parentId": null,
+    "parentType": null,
+    "progress": null,
+    "public": true,
+    "rootId": null,
+    "status": 4,
+    "timestamps": [
+      {
+        "status": 2,
+        "time": "2017-11-10T15:33:30.566000+00:00"
+      },
+      {
+        "status": 4,
+        "time": "2017-11-10T15:33:40.845000+00:00"
+      }
+    ],
+    "title": "Map 51",
+    "type": "jobmock",
+    "updated": "2017-11-10T15:33:40.845000+00:00",
+    "when": "2017-11-10T15:33:30.563000+00:00"
+  }
+]
