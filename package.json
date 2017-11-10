@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
-    "serve": "http-server build"
+    "serve": "http-server build",
+    "lint": "semistandard"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "http-server": "^0.10.0",
     "pug": "^2.0.0-rc.4",
     "pug-loader": "^2.3.0",
+    "semistandard": "^11.0.0",
     "webpack": "^3.8.1"
   }
 }
