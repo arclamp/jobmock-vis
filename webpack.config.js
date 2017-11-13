@@ -24,6 +24,13 @@ module.exports = candelaLoaders({
             }
           }
         ]
+      },
+      {
+        test: /\.jade$/,
+        exclude: /node_modules/,
+        use: [
+          'pug-loader'
+        ]
       }
     ]
   },
