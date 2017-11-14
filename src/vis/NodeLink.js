@@ -111,7 +111,7 @@ export default class NodeLink extends VisComponent {
         return d.x - this.getBBox().width / 2;
       })
         .attr('y', function (d) {
-          return d.y + this.getBBox().height / 4;
+          return d.y + this.getBBox().height + rectHeight / 2;
         });
     });
   }
