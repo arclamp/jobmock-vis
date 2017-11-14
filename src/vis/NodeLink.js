@@ -60,6 +60,7 @@ export default class NodeLink extends VisComponent {
       .attr('rx', 5)
       .attr('ry', 5)
       .style('fill', 'firebrick')
+      .call(cola.drag)
       .merge(node);
 
     this.node.forEach(n => {
@@ -67,11 +68,19 @@ export default class NodeLink extends VisComponent {
       n.width = rectWidth;
     });
 
+    let label = this.svg.selectAll('.label')
+      .data(this.node);
+    label = label.enter()
+      .append('text')
+      .classed('label', true)
+      .text(d => d.title)
+      .call(cola.drag)
+      .merge(label);
+
     cola.nodes(this.node)
       .links(this.link)
       .start();
 
-    node.call(cola.drag);
 
     cola.on('tick', () => {
       link.attr('x1', d => d.source.x)
@@ -81,6 +90,13 @@ export default class NodeLink extends VisComponent {
 
       node.attr('x', d => d.x - rectWidth / 2)
         .attr('y', d => d.y - rectHeight / 2);
+
+      label.attr('x', function (d) {
+        return d.x - this.getBBox().width / 2;
+      })
+        .attr('y', function (d) {
+          return d.y + this.getBBox().height / 4;
+        });
     });
   }
 }
