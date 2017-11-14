@@ -4,7 +4,9 @@ import VisComponent from 'candela/VisComponent';
 const fields = [
   'title',
   'created',
-  'parentId'
+  '_id',
+  'parentId',
+  'groupId'
 ];
 
 export default class TableView extends VisComponent {
