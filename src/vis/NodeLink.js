@@ -34,10 +34,6 @@ export default class NodeLink extends VisComponent {
     this.svg.attr('width', this.width)
       .attr('height', this.height);
 
-    cola.nodes(this.node)
-      .links(this.link)
-      .start();
-
     let link = this.svg.selectAll('.link')
       .data(this.link);
     link = link.enter()
@@ -65,6 +61,15 @@ export default class NodeLink extends VisComponent {
       .attr('ry', 5)
       .style('fill', 'firebrick')
       .merge(node);
+
+    this.node.forEach(n => {
+      n.height = rectHeight;
+      n.width = rectWidth;
+    });
+
+    cola.nodes(this.node)
+      .links(this.link)
+      .start();
 
     node.call(cola.drag);
 
