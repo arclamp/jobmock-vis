@@ -18,7 +18,8 @@ const updateVis = () => {
   const dataset = data[whichData];
 
   vis = new View(div, {
-    data: dataset
+    data: dataset,
+    width: div.clientWidth
   });
   vis.render();
 };

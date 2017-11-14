@@ -5,6 +5,25 @@ import VisComponent from 'candela/VisComponent';
 
 import { graphStructure } from '~/util/graph';
 
+function distance (a, b) {
+  const d = {
+    x: b.x - a.x,
+    y: b.y - a.y
+  };
+  return Math.sqrt(d.x * d.x + d.y * d.y);
+}
+
+function computePath (s, t) {
+  const d = distance(s, t);
+  const size = 5;
+  const v = {
+    y: -(t.x - s.x) * size / d,
+    x: (t.y - s.y) * size / d
+  };
+
+  return `M${t.x} ${t.y} L${s.x + v.x} ${s.y + v.y} L${s.x - v.x} ${s.y - v.y} Z`;
+}
+
 export default class NodeLink extends VisComponent {
   constructor (el, options) {
     super(el);
@@ -27,7 +46,7 @@ export default class NodeLink extends VisComponent {
 
   render () {
     const cola = d3adaptor(d3)
-      .linkDistance(120)
+      .linkDistance(60)
       .avoidOverlaps(true)
       .size([this.width, this.height]);
 
@@ -37,15 +56,16 @@ export default class NodeLink extends VisComponent {
     let link = this.svg.selectAll('.link')
       .data(this.link);
     link = link.enter()
-      .append('line')
+      .append('path')
       .classed('link', true)
       .style('stroke', '#999')
-      .style('stroke-width', '3px')
+      .style('fill', '#999')
+      .style('stroke-width', '1px')
       .style('stroke-opacity', 1)
       .merge(link);
 
-    const rectWidth = 100;
-    const rectHeight = 50;
+    const rectWidth = 50;
+    const rectHeight = 25;
 
     let node = this.svg.selectAll('.node')
       .data(this.node);
@@ -81,12 +101,8 @@ export default class NodeLink extends VisComponent {
       .links(this.link)
       .start();
 
-
     cola.on('tick', () => {
-      link.attr('x1', d => d.source.x)
-        .attr('y1', d => d.source.y)
-        .attr('x2', d => d.target.x)
-        .attr('y2', d => d.target.y);
+      link.attr('d', d => computePath(d.source, d.target));
 
       node.attr('x', d => d.x - rectWidth / 2)
         .attr('y', d => d.y - rectHeight / 2);
